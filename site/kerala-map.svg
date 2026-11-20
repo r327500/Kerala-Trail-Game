@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 340" role="img" aria-label="Illustrated Kerala map with a northbound trip route">
+<defs>
+ <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#9de1e5"/><stop offset="1" stop-color="#69c5d2"/></linearGradient>
+ <linearGradient id="land" x2="1" y2="1"><stop stop-color="#a7d67c"/><stop offset=".55" stop-color="#70b76b"/><stop offset="1" stop-color="#4b9b68"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#25624e" flood-opacity=".28"/></filter>
+</defs>
+<rect width="480" height="340" fill="url(#sea)"/>
+<g fill="none" stroke="#e7ffff" stroke-width="2" opacity=".52"><path d="M10 54q24-10 48 0t48 0m-74 12q26-10 52 0t52 0M28 231q24-10 48 0t48 0m-70 12q26-10 52 0t52 0M350 45q24-10 48 0t48 0m-74 12q26-10 52 0t52 0M354 283q24-10 48 0t48 0"/></g>
+<g fill="#fff" opacity=".75"><ellipse cx="78" cy="50" rx="28" ry="9"/><ellipse cx="96" cy="47" rx="18" ry="12"/><ellipse cx="359" cy="87" rx="31" ry="9"/><ellipse cx="377" cy="84" rx="19" ry="12"/></g>
+<path d="M212 18 253 27l11 20-13 21 19 18-16 20 8 22-19 18 12 20-20 18 9 20-19 18 1 22-18 20 5 22-15 19-7 24-26-8-8-21 11-19-9-23 13-18-11-23 16-18-8-21 17-19-8-22 18-19-9-22 19-20-8-21 20-19z" fill="url(#land)" stroke="#f5edc2" stroke-width="6" filter="url(#shadow)"/>
+<path d="M226 36 249 55 235 75 255 95 241 118 248 139 229 157 241 179 221 198 229 218 209 237 210 258 193 278 198 300 183 322" fill="none" stroke="#d4c78d" stroke-width="2" stroke-dasharray="4 6" opacity=".8"/>
+<path d="M183 322Q201 298 198 278T210 258q-7-13-1-21t20-19q-13-13-8-20t20-19q-15-13-12-21t19-18q-10-13-3-22t18-18q-14-11-10-21t19-17q-14-14-9-23t20-15q-15-14-9-24" fill="none" stroke="#fff1ad" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M229 198q22 2 38-15" fill="none" stroke="#fff1ad" stroke-width="4" stroke-dasharray="4 5"/>
+<path d="M241 157q26 6 39-12" fill="none" stroke="#fff1ad" stroke-width="4" stroke-dasharray="4 5"/>
+<g font-family="Arial,sans-serif" font-weight="700" text-anchor="middle">
+ <g transform="translate(183 322)"><circle r="13" fill="#f7bd48" stroke="#fff" stroke-width="4"/><circle r="4" fill="#fff"/><rect x="-46" y="9" width="92" height="20" rx="10" fill="#fffdf5"/><text y="23" font-size="10" fill="#3b5d4e">THIRUVANANTHAPURAM</text></g>
+ <g transform="translate(198 278)"><circle r="9" fill="#fff" stroke="#de9c39" stroke-width="4"/><rect x="-38" y="-27" width="76" height="19" rx="9" fill="#fffdf5"/><text y="-14" font-size="10" fill="#3b5d4e">VARKALA</text></g>
+ <g transform="translate(210 238)"><circle r="9" fill="#fff" stroke="#de9c39" stroke-width="4"/><rect x="-47" y="8" width="94" height="19" rx="9" fill="#fffdf5"/><text y="21" font-size="10" fill="#3b5d4e">ALAPPUZHA</text></g>
+ <g transform="translate(229 198)"><circle r="9" fill="#fff" stroke="#de9c39" stroke-width="4"/><rect x="-34" y="-28" width="68" height="19" rx="9" fill="#fffdf5"/><text y="-15" font-size="10" fill="#3b5d4e">KOCHI</text></g>
+ <g transform="translate(267 183)"><circle r="8" fill="#fff" stroke="#de9c39" stroke-width="3"/><rect x="30" y="-9" width="62" height="18" rx="9" fill="#fffdf5"/><text x="61" y="4" font-size="9" fill="#3b5d4e">MUNNAR</text></g>
+ <g transform="translate(241 157)"><circle r="9" fill="#fff" stroke="#de9c39" stroke-width="4"/><rect x="-47" y="-29" width="94" height="19" rx="9" fill="#fffdf5"/><text y="-16" font-size="10" fill="#3b5d4e">KOZHIKODE</text></g>
+ <g transform="translate(280 145)"><circle r="8" fill="#fff" stroke="#de9c39" stroke-width="3"/><rect x="27" y="8" width="68" height="18" rx="9" fill="#fffdf5"/><text x="61" y="21" font-size="9" fill="#3b5d4e">WAYANAD</text></g>
+</g>
+<g fill="#317856" opacity=".5"><circle cx="198" cy="112" r="4"/><circle cx="213" cy="132" r="3"/><circle cx="229" cy="248" r="3"/><circle cx="260" cy="215" r="4"/><circle cx="223" cy="290" r="4"/><circle cx="247" cy="70" r="3"/></g>
+<g transform="translate(31 285)"><rect width="102" height="29" rx="14" fill="#ffffffde"/><circle cx="16" cy="14.5" r="5" fill="#f7bd48"/><text x="29" y="19" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#3d6855">YOUR TRIP ROUTE</text></g>
+</svg>
